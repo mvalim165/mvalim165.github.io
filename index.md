@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: I am so skilled.
+title: I am so skilled
 ---
-#hello world!
+# Hello world!
 This is my test page.
 Still my test page.
