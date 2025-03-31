@@ -17,6 +17,6 @@ Our crime data included only recorded crimes and especially since the decriminal
 
 <iframe src="/sf_districts_bokeh.html" width="100%" height="600" frameborder="0"></iframe>
 
-The drug-related crime has become increasingly more unevenly distributed through out the city, which is showcased in the interactive figure above. By looking at the yearly district distributions, the focus on just a few districts is clear. Since 2020, over 50 % of drug-related crime has been recorded in Tenderloin.
+The drug-related crime has become increasingly unevenly distributed, which is showcased in the interactive figure above. By looking at the yearly district distributions, the focus on just a few districts is clear. Since 2020, over 50 % of drug-related crime has been recorded in Tenderloin.
 
 To understand this location even better, the map below offers more insights:
