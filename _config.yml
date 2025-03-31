@@ -28,7 +28,7 @@ twitter_username: don't have one, who has??
 github_username:  mvalim165
 
 # Build settings
-theme: null
+theme: minima
 plugins:
   - jekyll-feed
 
