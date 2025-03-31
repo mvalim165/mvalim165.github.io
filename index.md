@@ -12,4 +12,11 @@ In the graph above, we observe the proportion of all crimes committed that were 
 
 [1] *Lopez, G., Katz, J., & Parlapiano, A. (2024, January 31). Can San Francisco Solve Its Drug Crisis? Five Things to Consider. The New York Times. https://www.nytimes.com/2024/01/31/upshot/san-francisco-drug-crisis.html?unlocked_article_code=1.7E4.a6XJ.QIxTydwlDGAL&smid=nytcore-ios-share&referringSource=articleShare* <br>
 [2] *Carlos, C. (2025) San Francisco mayor Lurie Signs Fentanyl state of emergency ordinance; unveils ‘Stabilization center’ in tenderloin, CBS News. Available at: https://www.cbsnews.com/sanfrancisco/news/fentanyl-state-of-emergency-san-francisco-mayor-daniel-lurie/ (Accessed: 31 March 2025).*<br> 
+
+Our crime data included only recorded crimes and especially since the decriminalization actions in 2014, that number does not perfectly capture the overdose crisis in the city. By looking at the spatial distribution, fentanyl's presence becomes more evident.
+
 <iframe src="/sf_districts_bokeh.html" width="100%" height="600" frameborder="0"></iframe>
+
+The drug-related crime has become increasingly more unevenly distributed through out the city, which is showcased in the interactive figure above. By looking at the yearly district distributions, the focus on just a few districts is clear. Since 2020, over 50 % of drug-related crime has been recorded in Tenderloin.
+
+To understand this location even better, the map below offers more insights:
