@@ -28,10 +28,17 @@ twitter_username: don't have one, who has??
 github_username:  mvalim165
 
 # Build settings
-theme: minima
+theme: null
 plugins:
   - jekyll-feed
 
+# Enable custom CSS
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      css: "/assets/css/custom.css"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -51,3 +58,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
