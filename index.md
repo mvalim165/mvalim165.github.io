@@ -3,11 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: I am so skilled
+title: "Assignment 2: a Data story"
 ---
-This is my test page.
-Still my test page.
-Whaaat???
-> I can use sections
-1. or make lists
-2. can I?
+![Graph 1](https://raw.githubusercontent.com/mvalim165/mvalim165.github.io/refs/heads/main/crime-proportions.png)
