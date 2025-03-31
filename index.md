@@ -5,4 +5,4 @@
 layout: home
 title: "Assignment 2: a Data story"
 ---
-![Graph 1](https://raw.githubusercontent.com/mvalim165/mvalim165.github.io/refs/heads/main/crime-proportions.png)
+![Graph 1](https://raw.githubusercontent.com/mvalim165/mvalim165.github.io/refs/heads/main/overview.png)
