@@ -5,11 +5,11 @@ permalink: /about/
 ---
 
 
->02806 Social Data Analysis and Visualization, Spring 2025
->Assignment
->**Group 2:** 
->Maija Välimäki s250023
->Dante Mwatibo
->Leonardo Rodovero
+02806 Social Data Analysis and Visualization, Spring 2025<br>
+Assignment<br>
+**Group 2:** <br>
+Maija Välimäki s250023<br>
+Dante Mwatibo<br>
+Leonardo Rodovero<br>
 
 
