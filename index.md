@@ -6,3 +6,4 @@ layout: home
 title: "Assignment 2: a Data story"
 ---
 ![Graph 1](https://raw.githubusercontent.com/mvalim165/mvalim165.github.io/refs/heads/main/overview.png)
+<iframe src="/sf_districts_bokeh.html" width="100%" height="600" frameborder="0"></iframe>
