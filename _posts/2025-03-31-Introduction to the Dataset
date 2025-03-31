@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Introduction to the Dataset"
+date: 2025-03-31 13:44:00 +0100
+categories: lol 
+---
+The data that has been curated for this assignment is the San Francisco Police Department Incident Report dataset. This dataset starts in 2003, and we cut the data off at 2024. There are a lot of fields in the dataset, however the most important field we'll be looking at in our analysis is the Category field, which tells you which crime they committed. There are also temporal data that records the date and time the incident was reported it was taken and geospacial data like lat/long coordinates. Each entry will also include the police department district, or neighborhood.
