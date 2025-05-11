@@ -32,6 +32,11 @@ theme: minima
 plugins:
   - jekyll-feed
 
+minima:
+  skin: auto
+  include_css:
+    - /assets/css/custom.css
+
 # Enable custom CSS
 defaults:
   -

@@ -1,6 +1,14 @@
 /* assets/css/custom.css */
-.page-content {
-    max-width: 1200px !important;
-    width: 90%;
-    margin: 0 auto;
+/* Increase main content width */
+@media screen and (min-width: 768px) {
+  .wrapper {
+    max-width: 1200px;  /* Default is usually 800px */
   }
+}
+
+iframe, img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
