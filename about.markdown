@@ -6,11 +6,11 @@ permalink: /about/
 
 
 #02806 Social Data Analysis and Visualization, Spring 2025<br>
-Assignment 2<br>
+Final project / Project assignment B<br>
 <br>
-**Group 2:** <br>
-Maija Välimäki: Initial idea for the story, fig1, bokeh graph, hosting website<br>
-Dante Mwatibo: Formulating the story, editing stuff, reading on topic <br>
-Leonardo Rodovero: json graph, formulating the story, polishing stuff, reading on topic<br>
+**Group UPDATE GROUP NUMBER:** <br>
+Maija Välimäki: add contributions<br>
+Dante Mwatibo: add contributrions <br>
+
 
 
