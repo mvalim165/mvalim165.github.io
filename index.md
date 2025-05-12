@@ -38,8 +38,8 @@ Estimating cycling numbers is not a simple task. The automatic counters, located
 As the counters are at static locations, changes in cyclist amounts can be due to several different reasons and might not capture general changes in cycling habbits. To put it bluntly, there might be the exact same amount of cyclists on the street but just on the other side of it. All cicty cyclists probably know how one switches routes if there is e.g. a consturction site somewhere. 
 
 To account for these shortcomings, data from the barometer is presented in tandem. The 8th subplot shows percentiles of respondees who (1) own at least one bicycle and (2) cycle at least sometimes.  
-<iframe src = "/cyclist_counters_subplotgrid.html" width="2200" height = "1000" frameborder="0"></iframe>
+<iframe src = "/cyclist_counters_subplotgrid.html" width="1800" height = "1000" frameborder="0"></iframe>
 
 Based on these graphs it appears that there has been no major change in amount of cyclists in recent years. Considering the locations, it becomes clear though that the bike traffic is very concentrated in the city center with locations 'Baana' and 'Hesperia park (the Opera)' hosting the highest numbers both in 2016 and 2022. A funny Finnish fact: Most people have their summer holiday in July. You can see the temporal mitigation to summer houses in the cyclist numbers. In the following map, these locations are shown with the accident locations.
 
-<iframe src = "/bike_accidents_map.html" width="2000" frameborder="0"></iframe>
+<iframe src = "/bike_accidents_map.html" width="1400" height = "800" frameborder="0"></iframe>
