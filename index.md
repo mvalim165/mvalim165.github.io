@@ -7,10 +7,10 @@ title: "Cycling in Helsinki: What has changed?"
 ---
 
 ## Introduction
-There has been a decrease in cycling accidents in Helsinki, as shown by the following graph. The data only includes accidents reported to the police, so the data is far from comprehensive. The absolute values are to be taken with a grain of salt but the the overall trend is so stark that it is feer to assume that the city has become more safe – at least in some way – for cyclists. Though as shown in the smaller plots on the right, the number of lethal accidents varies from 0–2 throughout the years. These severe accidents are all included in the data.
+There has been a decrease in cycling accidents in Helsinki, as shown by the following graph. The data only includes accidents reported to the police, so the data is far from comprehensive. The absolute values are to be taken with a grain of salt but the the overall trend is so stark that it is fair to assume that the city has become more safe – at least in some way – for cyclists. Though as shown in the smaller plots on the right, the number of lethal accidents varies from 0–2 throughout the years. These severe accidents are all included in the data.
 <iframe src="/Reported_cycling_accidents_in_Helsinki.png" width="1400" height="850" frameborder="0"></iframe>
 
-These number made as ask questions about what has changed through out the years. The accident numbers are obviously strongly influenced by the amount of people biking. Again, the cyclist numbers are difficult to capture and again influenced by several factors besides safety, e.g. how cycling compares to other means of tranport (walking, public transport). To investigate the decrease in accident numbers, we looked into several datasets. Information on the reachability of public transport stations was available from years 2015 and 2022, thus these two years are studied. To assess the cyclist numbers, we present analysis based on automatic traffic counters as well as synthesis from bi-annual barometer questionnaires. The closest years available where 2016 and 2022. From the same questionnaires, we could also extract citizen insights on public transport and safety in relation to cycling.
+The accident numbers are obviously strongly influenced by the amount of people cycling. However those numbers are difficult to capture and again influenced by several factors besides safety, e.g. how cycling compares to other means of tranport (walking, public transport). To investigate the decrease in accident numbers, we looked into several datasets. Information on the reachability of public transport stations was available from years 2015 and 2022, thus these two years are studied. To assess the cyclist numbers, we present analysis based on automatic traffic counters as well as synthesis from bi-annual barometer questionnaires. The closest years available where 2016 and 2022. From the same questionnaires, we could also extract citizen insights on public transport and safety in relation to cycling.
 
 ## Public transport and light traffic in 2016 and 2022
 
@@ -38,6 +38,20 @@ As the counters are at static locations, changes in cyclist amounts can be due t
 To account for these shortcomings, data from the barometer is presented in tandem. The 8th subplot shows percentiles of respondees who (1) own at least one bicycle and (2) cycle at least sometimes.  
 <iframe src = "/cyclist_counters_subplotgrid.html" width="1800" height = "800" frameborder="0"></iframe>
 
-Based on these graphs it appears that there has been no major change in amount of cyclists in recent years. Considering the locations, it becomes clear though that the bike traffic is very concentrated in the city center with locations 'Baana' and 'Hesperia park (the Opera)' hosting the highest numbers both in 2016 and 2022. A funny Finnish fact: Most people have their summer holiday in July. You can see the temporal mitigation to summer houses in the cyclist numbers. In the following map, these locations are shown with the accident locations.
+Based on these graphs it appears that there has been no major change in amount of cyclists in recent years. However, the proportion of bike owners has decreased. Funnily enough, the quite popular and well-functioning city bike system was launched indeed in 2016. Our comparison captures how cycling in Helsinki no longer requires owning a bike. Besides the obvious influence of weather, the city bike season from April to October also explains the seasonal differences in counter numbers in 2022. One could speculate that this explains the 20–30k inrease in cyclists on Baana, a key route through the city center that is seperate from car traffic. To understand this better, the city bike data available should be analysed, but that is beyond the scope of this project. A funny Finnish fact: Most people have their summer holiday in July. You can see the temporal mitigation to summer houses in the cyclist numbers. 
+
+Considering the locations, it becomes clear though that the bike traffic is very concentrated in the city center, with locations such as just mentioned 'Baana' and 'Hesperia park (the Opera)' hosting the highest numbers both in 2016 and 2022. In the following map, these locations are shown with the accident locations.
 
 <iframe src = "/bike_accidents_map.html" width="1400" height = "800" frameborder="0"></iframe>
+
+The heatmap captures the varying locations of the accidents. The level of randomness in locations is to be accounted for, but several hotsopts, for example in Punavuori and along Mannerheimintie have disappeared. These could indicate that the bikelanes have been improved. The survey data from 2016 and 2022 aligns with these observations on safety: the percentages of respondents that perceive cycling at least quite safe has increased from 74 % to 82 %.
+
+## Conclusion
+
+To cycle or not to cycle... Individual's decision on whether to hop on a bike or not depends on several factors, not only safety. The graph below showcases these factors:
+
+<iframe src = "/Why_not_cycle.png" width="800" height = "800" frameborder="0"></iframe>
+
+This graph clearly offers answers to some of our questions. Respondents prefer something else: walking, driving or public transport. This change could be partially due to improvements in reaching public transport, as presented in the first part of this story. Similarly long distances are not as big of a problem anymore – maybe because combining public transport with cycling is easier? 
+
+Related to accidents, the graph also hints towards people feeling more safe in the traffic: feelings of unsafe are more rare. However, poor route planning, meaning e.g. illogical or discontinous routes, have stayed consistently annoying. 
