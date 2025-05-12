@@ -42,4 +42,4 @@ To account for these shortcomings, data from the barometer is presented in tande
 
 Based on these graphs it appears that there has been no major change in amount of cyclists in recent years. Considering the locations, it becomes clear though that the bike traffic is very concentrated in the city center with locations 'Baana' and 'Hesperia park (the Opera)' hosting the highest numbers both in 2016 and 2022. A funny Finnish fact: Most people have their summer holiday in July. You can see the temporal mitigation to summer houses in the cyclist numbers. In the following map, these locations are shown with the accident locations.
 
-<iframe src = "/bike_accidents_map.html" width="1400" height = "800" frameborder="0"></iframe>
+<iframe src = "/helsinki data/bike_accidents_map.html" width="1400" height = "800" frameborder="0"></iframe>
