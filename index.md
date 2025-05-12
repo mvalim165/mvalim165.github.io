@@ -6,14 +6,14 @@ layout: page
 title: "Cycling in Helsinki: What has changed?"
 ---
 
-# Introduction
+## Introduction
 <be>
 There has been a decrease in cycling accidents in Helsinki, as shown by the following graph. The data only includes accidents reported to the police, so the data is far from comprehensive. The absolute values are to be taken with a grain of salt but the the overall trend is so stark that it is feer to assume that the city has become more safe – at least in some way – for cyclists. Though as shown in the smaller plots on the right, the number of lethal accidents varies from 0–2 throughout the years. These severe accidents are all included in the data.
 <iframe src="/Reported_cycling_accidents_in_Helsinki.png" width="1400" height="850" frameborder="0"></iframe>
 
 These number made as ask questions about what has changed through out the years. The accident numbers are obviously strongly influenced by the amount of people biking. Again, the cyclist numbers are difficult to capture and again influenced by several factors besides safety, e.g. how cycling compares to other means of tranport (walking, public transport). To investigate the decrease in accident numbers, we looked into several datasets. Information on the reachability of public transport stations was available from years 2015 and 2022, thus these two years are studied. To assess the cyclist numbers, we present analysis based on automatic traffic counters as well as synthesis from bi-annual barometer questionnaires. The closest years available where 2016 and 2022. From the same questionnaires, we could also extract citizen insights on public transport and safety in relation to cycling.
 
-# Public transport and light traffic in 2016 and 2022
+## Public transport and light traffic in 2016 and 2022
 
 <iframe src="data/bike_15min_map.html" width="1400" height="550" frameborder="0"></iframe>
 Looking at the map shows us that the most densely populated parts of Helskinki appear to have gotten more access to public transport. This can be seen in the map through the intensity of the yellow, region in the city center. In 2022 this yellow is much more intense than in 2025. Additionally, the coverage areas do seem to have spread out a small bit in 2022 as compared to 2015. One important thing to note is that the vast majority  of the residential areas appear to be within 15 minute bike ride to a station. We believe this could be a factor that feeds into the prevelance of biking in Helsinki. In addition, the increase in the number of stations that can be accessed means faster travel times to different regions in Helsinki. We believe this is critical because one of the advantages of cars to public transport is that with a car you can typically take a very direct route to your destination, whereas with public transport you are at the whim of the route. This ties back to how likely people are to cycling because if you can get to just about anywhere relatively quickly and you only had to bike 15 minutes, then you would have more people buying bicycles and rididng them to and from bus stages.
@@ -24,7 +24,7 @@ Looking at the walking numbers is a bit tricky because we think if you can walk 
 <iframe src="data/walk_10min_counts.html" width="1400" height="550" frameborder="0"></iframe>
 Looking at the count reveals something we found interesting-- the coverage has increased, likely leading to a decrease in the amount of people who cycle. Additionally it does seem that the density has also increased, which would also lead to a decrease in the amount of peolpe who cycle. 
 
-# Changes in cyclist numbers
+## Changes in cyclist numbers
 <be>
 Estimating cycling numbers is not a simple task.
 <iframe src = "helsinki data/cyclist_counters_subplotgrid.html" width="1400" height = "1000" frameborder="0">
