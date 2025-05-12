@@ -27,4 +27,4 @@ Looking at the count reveals something we found interesting-- the coverage has i
 # Changes in cyclist numbers
 <be>
 Estimating cycling numbers is not a simple task.
-<iframe src = "/helsinki data/cyclist_counters_subplotgrid.html" width='1400' frameborder="0">
+<iframe src = "helsinki data/cyclist_counters_subplotgrid.html" width="1400" height = "1000" frameborder="0">
