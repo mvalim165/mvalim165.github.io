@@ -9,7 +9,7 @@ This project examines how cycling is in Helsinki by comparing several datasets f
 <be>
 
 <iframe src="data/bike_15min_map.html" width="1400" height="550" frameborder="0"></iframe>
-<iframe src="data/bike_15min_count.html" width="1400" height="550" frameborder="0"></iframe>
-<iframe src="data/walk_10min_map.html" width="1400" height="550" frameborder="0"></iframe>
-<iframe src="data/walk_10min_count.html" width="1400" height="550" frameborder="0"></iframe>
+<iframe src="data/bike_15min_counts.html" width="1400" height="550" frameborder="0"></iframe>
+<iframe src="data/walk_10_min_map.html" width="1400" height="550" frameborder="0"></iframe>
+<iframe src="data/walk_10min_counts.html" width="1400" height="550" frameborder="0"></iframe>
 <iframe src="/Reported_cycling_accidents_in_Helsinki.png" width="600" height="600" frameborder="0"></iframe>
