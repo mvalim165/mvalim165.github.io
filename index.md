@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: "Cycling in Helsinki: 2016 vs 2022"
+title: "Cycling in Helsinki: 2015 vs 2022"
 ---
 
 ## Introduction
