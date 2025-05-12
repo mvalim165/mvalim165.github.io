@@ -50,7 +50,7 @@ The heatmap captures the varying locations of the accidents. The level of random
 
 To cycle or not to cycle... Individual's decision on whether to hop on a bike or not depends on several factors, not only safety. The graph below showcases these factors:
 
-<iframe src = "/Why_not_cycle.png" width="1400" height = "800" frameborder="0"></iframe>
+<iframe src = "/Why_not_cycle.png" width="1400" height = "900" frameborder="0"></iframe>
 
 This graph clearly offers answers to some of our questions. Respondents prefer something else: walking, driving or public transport. This change could be partially due to improvements in reaching public transport, as presented in the first part of this story. Similarly long distances are not as big of a problem anymore – maybe because combining public transport with cycling is easier? 
 
