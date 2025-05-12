@@ -1,12 +1,12 @@
-/* assets/css/custom.css */
-/* Increase main content width */
+/* Make the main content container wider */
 @media screen and (min-width: 768px) {
   .wrapper {
-    max-width: 1200px;  /* Default is usually 800px */
+    max-width: 1200px; /* default is ~800px */
   }
 }
 
-iframe, img {
+/* Optional: Ensure full-width images scale nicely */
+img, iframe {
   max-width: 100%;
   height: auto;
   display: block;
