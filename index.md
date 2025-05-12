@@ -27,4 +27,4 @@ Looking at the count reveals something we found interesting-- the coverage has i
 ## Changes in cyclist numbers
 <be>
 Estimating cycling numbers is not a simple task.
-<iframe src = "/cyclist_counters_subplotgrid.html" width="1400" height = "1000" frameborder="0"></iframe>
+<iframe src = "/cyclist_counters_subplotgrid.html" width="100%" height = "100%" frameborder="0"></iframe>
