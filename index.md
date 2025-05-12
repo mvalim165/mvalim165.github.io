@@ -7,7 +7,6 @@ title: "Cycling in Helsinki: What has changed?"
 ---
 
 ## Introduction
-<br>
 There has been a decrease in cycling accidents in Helsinki, as shown by the following graph. The data only includes accidents reported to the police, so the data is far from comprehensive. The absolute values are to be taken with a grain of salt but the the overall trend is so stark that it is feer to assume that the city has become more safe – at least in some way – for cyclists. Though as shown in the smaller plots on the right, the number of lethal accidents varies from 0–2 throughout the years. These severe accidents are all included in the data.
 <iframe src="/Reported_cycling_accidents_in_Helsinki.png" width="1400" height="850" frameborder="0"></iframe>
 
@@ -31,14 +30,13 @@ Looking at the walking numbers is a bit tricky because we think if you can walk 
 Looking at the count reveals something we found interesting-- the coverage has increased, likely leading to a decrease in the amount of people who cycle. Additionally it does seem that the density has also increased, which would also lead to a decrease in the amount of peolpe who cycle. 
 
 ## Changes in cyclist numbers
-<br>
 
 Estimating cycling numbers is not a simple task. The automatic counters, located currently in 20 locations around the city are one way to estimate where and in which volumes the people of Helsinki cycle. For our focus years 2015 and 2022, there was limited overlap on counters in use and at least nearly full year time series. That and efficient differences in locations were the reasoning behind showcasing only *the* *seven* *locations* below. 
 
 As the counters are at static locations, changes in cyclist amounts can be due to several different reasons and might not capture general changes in cycling habbits. To put it bluntly, there might be the exact same amount of cyclists on the street but just on the other side of it. All cicty cyclists probably know how one switches routes if there is e.g. a consturction site somewhere. 
 
 To account for these shortcomings, data from the barometer is presented in tandem. The 8th subplot shows percentiles of respondees who (1) own at least one bicycle and (2) cycle at least sometimes.  
-<iframe src = "/cyclist_counters_subplotgrid.html" width="1800" height = "1000" frameborder="0"></iframe>
+<iframe src = "/cyclist_counters_subplotgrid.html" width="1800" height = "800" frameborder="0"></iframe>
 
 Based on these graphs it appears that there has been no major change in amount of cyclists in recent years. Considering the locations, it becomes clear though that the bike traffic is very concentrated in the city center with locations 'Baana' and 'Hesperia park (the Opera)' hosting the highest numbers both in 2016 and 2022. A funny Finnish fact: Most people have their summer holiday in July. You can see the temporal mitigation to summer houses in the cyclist numbers. In the following map, these locations are shown with the accident locations.
 
