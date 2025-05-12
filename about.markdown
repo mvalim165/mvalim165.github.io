@@ -9,8 +9,8 @@ permalink: /about/
 Final project / Project assignment B<br>
 <br>
 **Group UPDATE GROUP NUMBER:** <br>
-Maija Välimäki: add contributions<br>
-Dante Mwatibo: add contributrions <br>
+Maija Välimäki: Introduction, Cyclist numbers and accidents, Conclusions<br>
+Dante Mwatibo: Introduction, Public transport and light traffic, Conclusions <br>
 
 
 
