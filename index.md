@@ -5,7 +5,7 @@
 layout: page
 title: "Cycling in Helsinki: 2015 vs 2022"
 ---
-
+Explainer notebook: https://github.com/mvalim165/mvalim165.github.io/blob/e5bfcf573d9e12f9f8dc7cb3a73b93acfef64053/Explainer_notebook_Group1.ipynb
 ## Introduction
 There has been a decrease in cycling accidents in Helsinki, as shown by the following graph. The data only includes accidents reported to the police, so the data is far from comprehensive. The absolute values are to be taken with a grain of salt but the the overall trend is so stark that it is fair to assume that the city has become more safe – at least in some way – for cyclists. Though as shown in the smaller plots on the right, the number of lethal accidents varies from 0–2 throughout the years. These severe accidents are all included in the data.
 <iframe src="/Reported_cycling_accidents_in_Helsinki.png" width="1400" height="850" frameborder="0"></iframe>
