@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "cycling_counts_locations",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Kaisaniemi", "x": 25496697.9, "y": 6673928.16 }, "geometry": { "type": "Point", "coordinates": [ 24.940502313238294, 60.178199228311755 ] } },
+{ "type": "Feature", "properties": { "Name": "Eteläesplanadi", "x": 25496931.67, "y": 6672704.02 }, "geometry": { "type": "Point", "coordinates": [ 24.94473286783747, 60.167213868287135 ] } },
+{ "type": "Feature", "properties": { "Name": "Baana", "x": 25496018.01, "y": 6672998.46 }, "geometry": { "type": "Point", "coordinates": [ 24.928270166668099, 60.169848711320093 ] } },
+{ "type": "Feature", "properties": { "Name": "Lauttasaari bridge south", "x": 25494110.42, "y": 6672061.62 }, "geometry": { "type": "Point", "coordinates": [ 24.893934828933503, 60.161417121896491 ] } },
+{ "type": "Feature", "properties": { "Name": "Lauttasaari bridge north", "x": 25494453.04, "y": 6672209.73 }, "geometry": { "type": "Point", "coordinates": [ 24.900101011090616, 60.162751268038207 ] } },
+{ "type": "Feature", "properties": { "Name": "Kulosaari both sides", "x": 25499610.15, "y": 6674731.18 }, "geometry": { "type": "Point", "coordinates": [ 24.992974088154039, 60.185419836283359 ] } },
+{ "type": "Feature", "properties": { "Name": "Kuusisaarentie", "x": 25492931.19, "y": 6674956.03 }, "geometry": { "type": "Point", "coordinates": [ 24.872597634394147, 60.187376941575103 ] } },
+{ "type": "Feature", "properties": { "Name": "Munkkiniemi bridge north", "x": 25493792.78, "y": 6675914.28 }, "geometry": { "type": "Point", "coordinates": [ 24.888096912427475, 60.19599162092662 ] } },
+{ "type": "Feature", "properties": { "Name": "Munkkiniemi bridge south", "x": 25493760.23, "y": 6675847.29 }, "geometry": { "type": "Point", "coordinates": [ 24.887512163294499, 60.195389863405083 ] } },
+{ "type": "Feature", "properties": { "Name": "Hesperia park (the Opera)", "x": 25496176.34, "y": 6674240.12 }, "geometry": { "type": "Point", "coordinates": [ 24.931098917215568, 60.180994649474847 ] } },
+{ "type": "Feature", "properties": { "Name": "Pitkäsilta bridge west", "x": 25497188.98, "y": 6673692.0 }, "geometry": { "type": "Point", "coordinates": [ 24.949353918243933, 60.176083267590926 ] } },
+{ "type": "Feature", "properties": { "Name": "Pitkäsilta bridge east", "x": 25497255.67, "y": 6673768.13 }, "geometry": { "type": "Point", "coordinates": [ 24.950554442955362, 60.176767020368196 ] } },
+{ "type": "Feature", "properties": { "Name": "Merikannontie", "x": 25495211.14, "y": 6673759.38 }, "geometry": { "type": "Point", "coordinates": [ 24.913717672548341, 60.176669628688977 ] } },
+{ "type": "Feature", "properties": { "Name": "Kulosaari bridge north (closed)", "x": 25499598.49, "y": 6674835.97 }, "geometry": { "type": "Point", "coordinates": [ 24.992763743638619, 60.186360358882865 ] } },
+{ "type": "Feature", "properties": { "Name": "Ratapihantie", "x": 25496284.75, "y": 6676427.37 }, "geometry": { "type": "Point", "coordinates": [ 24.933012444479271, 60.200627102189436 ] } },
+{ "type": "Feature", "properties": { "Name": "Huopalahti (station)", "x": 25494615.55, "y": 6678081.68 }, "geometry": { "type": "Point", "coordinates": [ 24.902872211782618, 60.21545653805159 ] } },
+{ "type": "Feature", "properties": { "Name": "Kaivokatu", "x": 25496772.5, "y": 6673076.97 }, "geometry": { "type": "Point", "coordinates": [ 24.94185996679948, 60.170560030416468 ] } },
+{ "type": "Feature", "properties": { "Name": "Käpylä", "x": 25496889.76, "y": 6678450.44 }, "geometry": { "type": "Point", "coordinates": [ 24.943890027080737, 60.218789984552444 ] } },
+{ "type": "Feature", "properties": { "Name": "Viikintie", "x": 25499814.34, "y": 6679105.37 }, "geometry": { "type": "Point", "coordinates": [ 24.99665001885241, 60.224680043497344 ] } },
+{ "type": "Feature", "properties": { "Name": "Auroransilta bridge", "x": 25495829.19, "y": 6675381.99 }, "geometry": { "type": "Point", "coordinates": [ 24.924819970285586, 60.191240000872057 ] } }
+]
+}
